@@ -102,17 +102,18 @@ body {
   }
   .result-container{
     background-color:rgba(255,255,255,0.7);
-    border: 2px solid white;
+    border: 2px solid black;
     max-width: 200px;
     margin: 20px auto;
     text-align: center;
   }
   .result{
-    color:white;
+    color:black;
     text-align: center;
     text-shadow: 2px 2px 4px rgba(0, 0,0,0.5);
     font-size: 25px;
-    margin-bottom: auto;
+    margin-bottom: 15px;
+    padding: 10px;
   }
   /* Reset Button */
   #but {
