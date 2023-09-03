@@ -101,14 +101,18 @@ body {
     border-left: 1px solid gray;
   }
   .result-container{
-    background-color:transparent white;
+    background-color:rgba(255,255,255,0.7);
     border: 2px solid white;
     max-width: 200px;
     margin: 20px auto;
     text-align: center;
   }
   .result{
-    co
+    color:white;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0,0,0.5);
+    font-size: 25px;
+    margin-bottom: auto;
   }
   /* Reset Button */
   #but {
