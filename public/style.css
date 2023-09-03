@@ -102,6 +102,7 @@ body {
   }
   /* Reset Button */
   #but {
+    display: inline-block;
     box-sizing: border-box;
     width: 95px;
     height: 40px;
