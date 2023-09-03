@@ -119,6 +119,10 @@ body {
     cursor: pointer;
     transition: background-color 0.2s,color 0.2s;
   }
+  #but:hover{
+    background-color: black;
+    color: white;
+  }
   
   /* Player turn space */
   #print {
