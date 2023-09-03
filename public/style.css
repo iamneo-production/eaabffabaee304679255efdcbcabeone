@@ -17,10 +17,11 @@ body {
   p {
     margin-bottom: -10px;
   }
-  .ui {
+  .bt {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: 35px;
   }
   .row {
     display: flex;
